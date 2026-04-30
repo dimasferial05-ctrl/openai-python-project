@@ -1,7 +1,7 @@
 ````markdown
 # OpenAI API in Python (Groq Integration) 🤖
 
-Proyek ini adalah implementasi _Command Line Interface_ (CLI) Chatbot interaktif menggunakan Python. Proyek ini dibangun untuk menyelesaikan tantangan dari [roadmap.sh](https://roadmap.sh/) dengan tujuan memahami cara berinteraksi dengan Large Language Models (LLMs) secara terprogram di luar antarmuka browser.
+Proyek ini adalah implementasi _Command Line Interface_ (CLI) Chatbot interaktif menggunakan Python. Proyek ini dibangun untuk menyelesaikan tantangan dari [roadmap.sh](https://roadmap.sh/projects/openai-api-python) dengan tujuan memahami cara berinteraksi dengan Large Language Models (LLMs) secara terprogram di luar antarmuka browser.
 
 Karena limitasi kuota pada OpenAI API standar, proyek ini menggunakan **Groq API** yang 100% kompatibel dengan _library_ OpenAI Python untuk mendemonstrasikan pemanggilan model secara gratis dan sangat cepat.
 
